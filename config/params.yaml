@@ -1,0 +1,2 @@
+my_int_param: 1000
+subscriber_topic: "my_package_subscriber_topic"
